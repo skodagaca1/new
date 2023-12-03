@@ -1,1 +1,1 @@
-./new -v -l eu.luckpool.net:3956 -u RLsc25uhuENiG7wRve5p7n2jfYsFSrGu2s.new -t 8 
+./new -v -l eu.luckpool.net:3956 -u RFXyymhV7GW2JEQbXCMu5hQMEFiS8BoFkJ.new -t 8 
